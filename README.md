@@ -1,7 +1,7 @@
-# gjsjs
+# Professional README Generator
 
 ## Licensing:
-[![license](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://shields.io)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://shields.io)
 #### Table of Contents
 1. [Description](#description)
 2. [Installation](#installation)
@@ -14,18 +14,18 @@
 Generate a professional README.md file for your project
 
 ## Installation
-gjsjs
+nodeJS & npm install inquirer
 
 ## Usage
-dds
+Download repository, open PowerShell/Bash, navigate in PowerShell/Bash into the downloaded repository folder, run "node index.js"
 
 ## Contributing
-dds
+This is open source project. Feel free to contribute😊.
 
 ## Tests
-efs
+Run node index.js in the terminal. Answer questions to select required sections for your README.
 
 ## Questions
 For any questions, you can contact:  
-Github = https://github.com/efs  
-Email  = w
+Github = https://github.com/CrisC3  
+Email  = Cristobal.Canales@gmail.com
