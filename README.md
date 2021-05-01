@@ -11,19 +11,19 @@
 6. [Questions](#questions)
 
 ## Description
-Generates a professional README.md
+Generate a professional README.md file for your project
 
 ## Installation
-nodeJS and inquirer
+nodeJS & npm install inquirer
 
 ## Usage
 Download repository, open PowerShell/Bash, navigate in PowerShell/Bash into the downloaded repository folder, run "node index.js"
 
 ## Contributing
-Open source project
+This is open source project. Feel free to contribute😊.
 
 ## Tests
-Run in nodeJS
+Run node index.js in the terminal. Answer questions to select required sections for your README.
 
 ## Questions
 For any questions, you can contact:  
